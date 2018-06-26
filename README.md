@@ -43,6 +43,6 @@
 * [2] [InstaCal](https://www.mccdaq.com/daq-software/instacal.aspx)
 
 ## License
-* [Apache License 2.0](https://github.com/Errrneist/AIARG-UWKWT-Calibration-Driver/blob/master/LICENSE.txt)
+* [Apache License 2.0](https://github.com/Errrneist/AIARG-UWKWT-Analyzation-Software/blob/master/LICENSE.txt)
 
 
