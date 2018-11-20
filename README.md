@@ -4,7 +4,8 @@
 **[University of Washington](http://www.washington.edu/) [Kirsten Wind Tunnel](https://www.aa.washington.edu/AERL/KWT)-[Aircraft Icing and Aerodynamics Research Group](https://www.aa.washington.edu/research/AIARG)**
 
 *[William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/), [Boeing](http://www.boeing.com/), [NASA](https://www.nasa.gov/), [FAA](https://www.faa.gov).*
-* This software collects data from a NI DAQ board and saves all data into a .csv file.
+* The purpose of this project is to collect raw data and prepare for futher mathematical computing.
+* It collects data from a NI DAQ board and saves all data into a .csv file.
 
 
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Analyzation-Software/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
