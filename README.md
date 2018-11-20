@@ -10,6 +10,17 @@
 
 <img align="right" src="https://github.com/Errrneist/AIARG-UWKWT-Analyzation-Software/blob/master/IMG/UW-AA.jpg" alt="University of Washington" width="350">
 
+## Instructions
+* Step 1: Make sure you connected and configured the acquisition device properly in the NI MAX software.
+* Step 2: Please specify a file path for the .csv file in the program.
+* Step 3: Maintain a test run log is recommended so we all understand what was going on.
+* Step 4: For every run, input the load information and click collect when you are ready.
+* Step 5: Upload test result to Perforce, Shared Drives, etc.
+
+## About
+* We use the following 6 channels for adding load: Normal, Axial, n, Pitch, Yaw, Roll.
+* The program outputs voltages from the following 6 channels: L1, L2, SF1, SF2, SF3, D1.
+
 ## Contributor
 
 **Principal Investigator**
