@@ -18,10 +18,11 @@
 * Step 5: Upload test result to Perforce, Shared Drives, etc.
 
 ## About
-* We use the following 6 channels for adding load: Normal, Axial, n, Pitch, Yaw, Roll.
+* We use the following 11 channels for adding load.
 * The program outputs voltages from the following 6 channels: L1, L2, SF1, SF2, SF3, D1.
 
 ## Updates
+* [20190125] UI changed. Now recording 11 loads at different load locations, not moments.
 * [20190114] Code testing successfull.
 
 ## Contributor
