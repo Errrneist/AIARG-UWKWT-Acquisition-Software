@@ -22,6 +22,7 @@
 * The program outputs voltages from the following 6 channels: L1, L2, SF1, SF2, SF3, D1.
 
 ## Updates
+* [20190126] Released [V2](https://github.com/Errrneist/AIARG-UWKWT-Acquisition-Software/releases/tag/v2.0) to meet most recent demand.
 * [20190125] UI changed. Now recording 11 loads at different load locations, not moments.
 * [20190114] Code testing successfull.
 
