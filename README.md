@@ -23,6 +23,7 @@
 * A useful tool to view the CSV files: [CSVFileView](https://www.nirsoft.net/utils/csv_file_view.html)
 
 ## Updates
+* [20190130] Added a link to download CSVFileView into readme.MD.
 * [20190126] Released [V2](https://github.com/Errrneist/AIARG-UWKWT-Acquisition-Software/releases/tag/v2.0) to meet most recent demand.
 * [20190125] UI changed. Now recording 11 loads at different load locations, not moments.
 * [20190114] Code testing successfull.
