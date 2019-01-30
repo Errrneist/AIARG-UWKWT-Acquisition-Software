@@ -20,6 +20,7 @@
 ## About
 * We use the following 11 channels for adding load.
 * The program outputs voltages from the following 6 channels: L1, L2, SF1, SF2, SF3, D1.
+* A useful tool to view the CSV files: [CSVFileView](https://www.nirsoft.net/utils/csv_file_view.html)
 
 ## Updates
 * [20190126] Released [V2](https://github.com/Errrneist/AIARG-UWKWT-Acquisition-Software/releases/tag/v2.0) to meet most recent demand.
